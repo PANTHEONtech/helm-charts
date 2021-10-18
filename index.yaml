@@ -3,6 +3,15 @@ entries:
   lighty-rcgnmi-app-helm:
   - apiVersion: v1
     appVersion: "1.0"
+    created: "2021-10-18T16:46:41.197104174Z"
+    description: RCgNMI lighty application helm chart for Kubernetes
+    digest: 9ea4c6e4e1c095218bcebb2cc23f500e98d0b3003e8c74d83cee2fe37c114b5d
+    name: lighty-rcgnmi-app-helm
+    urls:
+    - https://pantheontech.github.io/helm-charts/lighty-rcgnmi-app-helm-15.0.0.tgz
+    version: 15.0.0
+  - apiVersion: v1
+    appVersion: "1.0"
     created: "2021-09-10T12:17:25.630240246Z"
     description: RCgNMI lighty application helm chart for Kubernetes
     digest: 29ea83cdf8cd313451d20d24ba9a2f7eb6055d672d252303c1322d7f0a82d9db
@@ -74,4 +83,4 @@ entries:
     urls:
     - https://pantheontech.github.io/helm-charts/lighty-rnc-app-helm-13.2.1.tgz
     version: 13.2.1
-generated: "2021-09-10T12:41:43.92905345Z"
+generated: "2021-10-18T16:46:41.196190137Z"
