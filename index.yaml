@@ -202,6 +202,15 @@ entries:
   lighty-rnc-app-helm:
   - apiVersion: v1
     appVersion: "1.0"
+    created: "2023-09-11T14:05:35.735307358Z"
+    description: RNC lighty application helm chart for Kubernetes
+    digest: 0294269e71434b0cf0dfe4fcf35ebdbabf6c762758f293e2fea51224eac2ba3d
+    name: lighty-rnc-app-helm
+    urls:
+    - https://pantheontech.github.io/helm-charts/lighty-rnc-app-helm-18.2.0.tgz
+    version: 18.2.0
+  - apiVersion: v1
+    appVersion: "1.0"
     created: "2023-05-15T10:45:13.283460533Z"
     description: RNC lighty application helm chart for Kubernetes
     digest: 0825f8a77f0cc8a28dbf52e5e0f3fb19ea103a42bb12a882bd3afadd3b43b5d7
@@ -425,4 +434,4 @@ entries:
     urls:
     - https://pantheontech.github.io/helm-charts/lighty-rnc-app-helm-13.2.1.tgz
     version: 13.2.1
-generated: "2023-09-11T13:43:18.071764847Z"
+generated: "2023-09-11T14:05:35.733266874Z"
